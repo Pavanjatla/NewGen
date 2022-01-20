@@ -156,7 +156,7 @@ iframe {
 .slide-content h3{
     font-family: 'Roboto';
     margin-bottom: 20px;
-    font-size: 22px;
+    font-size: 25px;
 }
 
 
@@ -407,7 +407,7 @@ section#section2 .shapes p{
 
 .section-title h2 {
   margin-top: 30px;
-  font-size: 70px;
+  font-size: 50px;
   font-family: 'Righteous';
   color: rgb(68, 68, 68);
   line-height: 1;
@@ -1650,4 +1650,111 @@ li.footer-section a:focus p{
 * ==========================================
 */
 
+.cap h1{
+  font-size:xx-large;
+  font-weight: bolder;
+  color: black;
+  position: relative;
+  top: 5px;
+}
+.ban{
+  
+  display: flex;
+  align-items:center;
+  position: relative;
+  margin-top: 20px;
+  margin-left: 150px;
+  padding: 25px;
+  margin-bottom: 35px;
+  
+}
+.long-btn{
+  background-color: crimson;
+  font-size:xx-large;
+  font-family: monospace;
+  font-weight: bolder;
+  width: 1000px ;
+  height: 75px;
+  margin-left: 35px;
+  
+}
+.long-btn:hover{
+  background-color:limegreen;
+  color:black;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;
+}
+.long-btn:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.note{
+  margin: 25px;
+  text-align: center;
+
+}
+.heading{
+  font-size: xx-large;
+  font-family: 'Righteous';
+  color:orange;
+  padding: 10px;
+  font-weight: bolder;
+  margin: 25px;
+  text-align: center;
+  line-height: 45px;
+}
+.date{
+  color:orange;
+  font-size: 30px;
+  font-weight:bolder;
+  font-family: monospace;
+  text-align: center;
+  margin: 10px;
+}
+.video{
+  box-shadow: black;
+  border-radius: 2px;
+  border: black;
+}
+.course{
+  font-size: large;
+  font-family:monospace;
+  font-weight: bolder;
+}
+.who{
+  color: black;
+  font-size:xx-large;
+  font-family: monospace;
+  font-weight: 900;
+  display: flex;
+  justify-content:center;
+  margin: 10px;
+  padding: 10px;
+}
+.head{
+  position:absolute;
+  text-align: center;
+  margin-top:8%;
+  margin-left: 28%;
+  font-size:45px;
+  font-family: 'Righteous';
+  color:white;
+  padding: 10px;
+  font-weight: bolder;
+
+}
+.head1{
+  position:absolute;
+  text-align: center;
+  margin-top:13%;
+  margin-left: 31%;
+  font-size:30px;
+  font-family: 'Righteous';
+  color:black;
+  padding: 10px;
+  font-weight: bolder;
+
+}
 

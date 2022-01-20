@@ -1,0 +1,76 @@
+<div class="single-slide item" style="background-image: url(img/slider/4.jpg)">
+
+
+                    <!-- <img src="img/slider/placehold.png"> -->
+
+                    <!-- Start Slider Content -->
+
+                        <div class="slider-content-area">  
+                                <div class="row">
+                                        <div class="slide-content-wrapper text-center">
+                                            <div class="slide-content">
+                                                
+                                                <h3 >E-Commerce Learning </h3>
+                                                <h2>A Best Place to Learn about E-Commerce bussiness</h2>
+
+                                                <a class="default-btn" href="about.html">Learn more</a>
+                                                <img class="classic" src="img/new/icon.png">
+
+                                            </div>
+                                        </div>
+                                    </div>
+                    </div>
+                    <!-- Start Slider Content -->
+                </div>
+                <!-- End Single Slide -->
+                <!-- Start Slingle Slide -->
+                <div class="single-slide item" style="background-image: url(img/slider/2.png)">
+
+                    <!-- <img src="img/slider/bakery.jpg"> -->
+                    <!-- Start Slider Content -->
+
+                        <div class="slider-content-area">   
+                                <div class="row">
+                                        <div class="slide-content-wrapper text-center">
+                                            <div class="slide-content">
+                                                
+
+                                                <h3>E-Commerce Learning </h3>
+                                                <h2>A Best Place to Learn about E-Commerce bussiness</h2>
+
+                                                <a class="default-btn" href="about.html">Learn more</a>
+                                                <img class="classic" src="img/new/icon.png">
+
+                                            </div>
+                                    </div>
+                            </div>
+                  </div>
+                    <!-- Start Slider Content -->
+                </div>	
+                
+                <div class="single-slide item" style="background-image: url(img/slider/3.jpg)">
+
+                    <!--<img src="img/slider/bakery.jpg">-->
+                    <!-- Start Slider Content -->
+
+                        <div class="slider-content-area">   
+                                <div class="row">
+                                        <div class="slide-content-wrapper text-center">
+                                            <div class="slide-content">
+                                                <h3>E-Commerce Learning </h3>
+                                                <h2>A Best Place to Learn about E-Commerce bussiness</h2>
+
+                                                <a class="default-btn" href="about.html">Learn more</a>
+                                                <img class="classic" src="img/new/icon.png">
+
+
+                                            </div>
+                                    </div>
+                            </div>
+                        </div>
+                    <!-- Start Slider Content -->
+                </div>
+
+
+
+//videos
